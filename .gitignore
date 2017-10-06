@@ -1,0 +1,13 @@
+app/tmp/
+code/.vs/
+*.exe
+*.iobj
+*.ipdb
+*.pdb
+*.dll
+*.exp
+*.lib
+*.ilk
+*.tmp
+*.txt
+
